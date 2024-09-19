@@ -58,4 +58,21 @@ Soy un desarrollador **Fullstack** apasionado por aprender nuevas tecnologías y
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
+---
+
+## 🌍 Sobre mí:
+- 🇳🇮 Based in **Estelí, Nicaragua**
+- 🎓 Soy ingeniero civil egresado con una pasión por la programación y el desarrollo web
+- 🏆 Participé en un hackathon con 6 personas, y logramos el **segundo lugar** con el proyecto 'wheelz'
+- 💻 Sigo mejorando mis habilidades en el desarrollo **Fullstack** y me mantengo actualizado con las últimas tecnologías
+- 📚 Actualmente estoy estudiando **backend**, **frontend**  y explorando nuevas áreas como Docker y Kubernetes
+
+---
+
+## 📧 Contacto:
+- 📧 Email: [Edbys Jr Ortega](ing.edbortjr@gmail.com)
+- 🐦 Twitter: [@EdBigpun](https://twitter.com)
+- 🌐 LinkedIn: [Edbys Jr Ortega](https://www.linkedin.com/in/edbys-jr-ortega)
+
+
 
