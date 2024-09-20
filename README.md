@@ -70,7 +70,7 @@ Soy un desarrollador **Fullstack** apasionado por aprender nuevas tecnologías y
 ---
 
 ## 📧 Contacto:
-- 📧 Email: [Edbys Jr Ortega](ing.edbortjr@gmail.com)
+- 📧 Email: [ing.edbortjr@gmail.com](mailto:ing.edbortjr@gmail.com)
 - 🐦 Twitter: [@EdBigpun](https://twitter.com)
 - 🌐 LinkedIn: [Edbys Jr Ortega](https://www.linkedin.com/in/edbys-jr-ortega)
 
