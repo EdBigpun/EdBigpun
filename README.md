@@ -74,5 +74,7 @@ Soy un desarrollador **Fullstack** apasionado por aprender nuevas tecnologías y
 - 🐦 Twitter: [@EdBigpun](https://twitter.com)
 - 🌐 LinkedIn: [Edbys Jr Ortega](https://www.linkedin.com/in/edbys-jr-ortega)
 
+[![](https://visitcount.itsvg.in/api?id=Edbigpun&label=Profile%20Views&color=1&icon=2&pretty=true)](https://visitcount.itsvg.in)
+
 
 
